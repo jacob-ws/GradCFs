@@ -2,10 +2,7 @@
 
 This repository contains the official implementation of DiPACE and GradCFA, two methods developed to generate flexible, interpretable, and plausible counterfactual explanations for machine learning models using gradient-descent.
 
-These methods were developed as part of early PhD research exploring how to balance key desiderata in counterfactual generation:
-- **Diversity** – generating multiple distinct alternatives.
-- **Feasibility** – ensuring counterfactuals are sparse, minimal, and actionable.
-- **Plausibility** – aligning with the true data distribution.
+These methods were developed as part of early PhD research exploring how to improve interpretability and flexibility in counterfactual explanations.
 
 ---
 
