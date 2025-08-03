@@ -6,7 +6,7 @@ import copy
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
-class DiPACE:
+class GradCFA:
 
     def __init__(self, data_interface, model_interface):
         """Init method
