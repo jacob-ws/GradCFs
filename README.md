@@ -10,7 +10,7 @@ These methods were developed as part of early PhD research exploring how to impr
 
 ### DiPACE: Diverse and Plausible Counterfactual Explanations
 
-- Published at ICAART 2025
+- Published at [ICAART 2025](https://www.scitepress.org/Papers/2025/132191/132191.pdf)
 - Selected and accepted for post-publication in Lecture Notes in Computer Science (accepted: 01/08/2025, publication expected in December 2025).
 
 DiPACE uses a weighted sum loss function including objectives for:
@@ -23,7 +23,7 @@ DiPACE uses a weighted sum loss function including objectives for:
 
 ### GradCFA: Gradient-Based Counterfactual and Feature Attribution Explanations
 
-- Published in IEEE Transactions on Artificial Intelligence (18/03/2025)
+- Published in [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/abstract/document/10930810) (18/03/2025)
 
 GradCFA builds on DiPACE by integrating feature attribution through gradient magnitudes, providing insight into the influence of each feature in counterfactual generation.
 
