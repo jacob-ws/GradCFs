@@ -4,6 +4,8 @@ This repository contains the official implementation of DiPACE and GradCFA, two 
 
 These methods were developed as part of early PhD research exploring how to improve interpretability and flexibility in counterfactual explanations.
 
+Example usage is shown in the notebooks binary_notebook.ipynb and mc_notebook.ipynb. 
+
 ---
 
 ## Method Overview:
