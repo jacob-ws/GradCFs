@@ -37,7 +37,8 @@ If you use this code in your research, please consider citing:
     author = {Sanderson, Jacob and Mao, Hua and Woo, Wai Lok},
     title = {DiPACE: Diverse, Plausible and Actionable Counterfactual Explanations},
     booktitle = {Proceedings of the 17th International Conference on Agents and Artificial Intelligence},
-    year = {2025}
+    year = {2025},
+    DOI = {10.5220/0013219100003890}
 }
 
 @article{sanderson2025gradcfa,
@@ -46,7 +47,8 @@ If you use this code in your research, please consider citing:
   journal={IEEE Transactions on Artificial Intelligence},
   year={2025},
   publisher={IEEE},
-  volume={Early Access},
-  pages={1--13},
+  volume={6},
+  number={10},
+  pages={2575 - 2587},
   DOI={10.1109/TAI.2025.3552057}
 }
