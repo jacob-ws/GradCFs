@@ -1,4 +1,4 @@
-# Flexible-CFX: Flexible and Interpretable Counterfactual Explanation Methods
+# Gradient-Based Counterfactual Explanations
 
 This repository contains the official implementation of DiPACE and GradCFA, two methods developed to generate flexible, interpretable, and plausible counterfactual explanations for machine learning models using gradient-descent.
 
